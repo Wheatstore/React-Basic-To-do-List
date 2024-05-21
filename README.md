@@ -1,2 +1,8 @@
-# React-Basic-To-do-List
-This was my first time creating a real time react application on my own without the help of a tutorial. I worked through the problems and bugs that I faced admittedly through some stack overflow to create this react app. I hope to integrate firebase into the app to better improve its realtime updates and application. 
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
